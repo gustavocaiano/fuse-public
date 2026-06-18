@@ -9,6 +9,8 @@ Este repositório reúne artefactos de suporte à dissertação do projeto FUSE 
 - `docs/questionary/post/`
   - Questionário final/pós-validação.
   - Grelhas de validação externa associadas aos requisitos não funcionais.
+- `docs/project-charter.pdf`
+  - Project Charter inicial usado como artefacto de planeamento.
 - `docs/reports/rnf01/`
   - Relatório externo de análise de segurança usado como evidência do RNF-01.
 - `docs/media/prints/`
@@ -19,6 +21,7 @@ Este repositório reúne artefactos de suporte à dissertação do projeto FUSE 
 ## Artefactos principais
 
 - Questionário inicial: [`docs/questionary/pre/questionario_inicial_opc_pre_validacao.xlsx`](docs/questionary/pre/questionario_inicial_opc_pre_validacao.xlsx)
+- Project Charter: [`docs/project-charter.pdf`](docs/project-charter.pdf)
 - Questionário final preenchido: [`docs/questionary/post/questionario_validacao_opc_pos_validacao_gnr.xlsx`](docs/questionary/post/questionario_validacao_opc_pos_validacao_gnr.xlsx)
 - Modelo do questionário final: [`docs/questionary/post/questionario_validacao_opc_pos_validacao_modelo.xlsx`](docs/questionary/post/questionario_validacao_opc_pos_validacao_modelo.xlsx)
 - Relatório de segurança RNF-01: [`docs/reports/rnf01/relatorio_analise_seguranca_fuse.pdf`](docs/reports/rnf01/relatorio_analise_seguranca_fuse.pdf)
