@@ -28,6 +28,6 @@ Este repositório reúne artefactos de suporte à dissertação do projeto FUSE 
 - Questionário final preenchido: [`docs/questionary/post/questionario_validacao_opc_pos_validacao_gnr.xlsx`](docs/questionary/post/questionario_validacao_opc_pos_validacao_gnr.xlsx)
 - Modelo do questionário final: [`docs/questionary/post/questionario_validacao_opc_pos_validacao_modelo.xlsx`](docs/questionary/post/questionario_validacao_opc_pos_validacao_modelo.xlsx)
 - Relatório de segurança RNF-01: [`docs/reports/rnf01/relatorio_analise_seguranca_fuse.pdf`](docs/reports/rnf01/relatorio_analise_seguranca_fuse.pdf)
+- Relatório OSV Scanner após correção dos lockfiles: [`docs/reports/rnf01/fuse-osv-scanner-report-after-fix-all-lockfiles.txt`](docs/reports/rnf01/fuse-osv-scanner-report-after-fix-all-lockfiles.txt)
 - Grelha RNF-02 preenchida: [`docs/questionary/post/grelha_validacao_rnf02_implantacao_externa.xlsx`](docs/questionary/post/grelha_validacao_rnf02_implantacao_externa.xlsx)
 - Modelo da grelha RNF-02: [`docs/questionary/post/grelha_validacao_rnf02_implantacao_externa_modelo.xlsx`](docs/questionary/post/grelha_validacao_rnf02_implantacao_externa_modelo.xlsx)
-
