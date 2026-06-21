@@ -1,0 +1,7 @@
+Starting filesystem walk for root: /
+Scanned /src/composer.lock file and found 201 packages
+Scanned /src/package-lock.json file and found 225 packages
+Scanned /src/bun.lock file and found 234 packages
+End status: 0 dirs visited, 3 inodes visited, 3 Extract calls, 14.358333ms elapsed, 14.358375ms wall time
+
+No issues found
